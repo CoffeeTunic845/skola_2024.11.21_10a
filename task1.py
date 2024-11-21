@@ -11,4 +11,3 @@ for num in range(1, 10001):
             divisor_sum += i
     if divisor_sum == num:
         print(num)
-
